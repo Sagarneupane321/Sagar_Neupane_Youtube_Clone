@@ -93,6 +93,7 @@
     font-size: 12px;
     opacity: 0;
     pointer-events: none;
+    z-index: 1;
 }
 
 .sidebar-hover-text-subscriptions
@@ -109,6 +110,7 @@
     font-size: 12px;
     opacity: 0;
     pointer-events: none;
+    z-index: 1;
 }
 
 .sidebar-hover-text-library
@@ -124,6 +126,7 @@
     font-size: 12px;
     opacity: 0;
     pointer-events: none;
+    z-index: 1;
          
 }
 
