@@ -7,7 +7,6 @@ This project is a clone of the YouTube homepage built using **HTML** and **CSS**
 - Features]
 - Technologies Used]
 - Screenshots]
-- How to Use]
 - Future Improvements
 - Contact
 
